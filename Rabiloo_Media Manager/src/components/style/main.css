@@ -1,0 +1,12 @@
+ul,li {
+    list-style: none;
+}
+
+body {
+    margin: 0;
+    /* overflow: hidden; */
+}
+
+.media-manager-app {
+    display: flex;
+}
